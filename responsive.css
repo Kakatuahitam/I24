@@ -1,0 +1,17 @@
+@media(max-width:1000px) {
+    
+}
+
+@media(max-width:650px) {
+    .subject {
+        flex-wrap: wrap;
+        width: 50%;
+    }
+}
+
+@media(max-width:350px) {
+    .subject {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}
